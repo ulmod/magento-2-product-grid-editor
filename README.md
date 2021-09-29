@@ -1,8 +1,8 @@
 # Magento 2 Product Grid Inline Editor Extension
 
-[Magento 2 Product Grid Inline Editor](https://www.ulmod.com/magento-2-product-grid-editor.html) is a Magento 2 extension that allows you to update product data right from the grid. You can edit one or multiple products data from the product grid. Edit categiories, sotkc status. Display related/up-sells/cross-sells product in the grid. Upload or remove product images and videors from the grid. Quick prduct grid editing using AJAX. 
+[Magento 2 Product Grid Inline Editor](https://www.ulmod.com/magento-2-product-grid-editor.html)  is a Magento 2 extension that allows you to update product data right from the grid. You can edit one or multiple products data from the product grid. Edit categories, stock status. Display related/up-sells/cross-sells product in the grid. Upload or remove product images and videos from the grid. Quick product grid editing using AJAX.
 
-With the Magento 2 Product Grid Inline Editor extension, you can save time on managing products in your backend. No more need to go to each product edit page to update the data. Instead, you can bulk update product data from the grid. 
+With the Magento 2 Product Grid Inline Editor extension, you can save time on managing products in your backend. No more need to go to each product edit page to update the data. Instead, you can bulk update product data from the grid.
 
 <a href="https://www.ulmod.com/magento-2-product-grid-editor.html"><img width="205" src="https://www.ulmod.com/media/wysiwyg/um-download-now1.png"></a>
 
